@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Booo! ／ 天月-あまつき- 【歌ってみた】",
+  "base_artist": "天月-あまつき-",
+  "createdAt": "2025-12-09T07:15:20.162329Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Booo!",
+      "artist": "Sticky feat. Miss Dynamite",
+      "has_synced": false,
+      "path": "select/01_Booo!_Sticky_feat._Miss_Dynamite.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Booo",
+      "artist": "Sticky feat. Ms. Dynamite",
+      "has_synced": false,
+      "path": "select/02_Booo_Sticky_feat._Ms._Dynamite.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Booo",
+      "artist": "Ms. Dynamite",
+      "has_synced": false,
+      "path": "select/03_Booo_Ms._Dynamite.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Booo!",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン",
+      "has_synced": true,
+      "path": "select/04_Booo!_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Booo!",
+      "artist": "Karian",
+      "has_synced": true,
+      "path": "select/05_Booo!_Karian.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Booo!",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/06_Booo!_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Booo!",
+      "artist": "TOKOTOKO feat. Otomachi, Una",
+      "has_synced": true,
+      "path": "select/07_Booo!_TOKOTOKO_feat._Otomachi,_Una.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Booo!",
+      "artist": "Sticky Feat. Ms. Dynamite",
+      "has_synced": false,
+      "path": "select/08_Booo!_Sticky_Feat._Ms._Dynamite.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Booo! (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/09_Booo!_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Booo Sarde",
+      "artist": "Tik Taak",
+      "has_synced": true,
+      "path": "select/10_Booo_Sarde_Tik_Taak.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Booo! (Original Dirty Mix)",
+      "artist": "Sticky",
+      "has_synced": false,
+      "path": "select/11_Booo!_(Original_Dirty_Mix)_Sticky.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Booo!",
+      "artist": "天月",
+      "has_synced": false,
+      "path": "select/pl_01_Booo!_天月.txt"
+    }
+  ]
+}
